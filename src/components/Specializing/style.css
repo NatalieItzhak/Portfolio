@@ -1,0 +1,12 @@
+.card {
+    background: #fff;
+    border-radius: 2px;
+    box-sizing: border-box;
+    width: 100%;
+}
+
+@media screen and (max-width: 768px) {
+    .card{
+        width: 100%;
+    }
+}

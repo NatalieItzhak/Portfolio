@@ -1,0 +1,18 @@
+.meRightImgContainer{
+    width: 376px;
+    height: 545px;
+    overflow: hidden;
+    border-radius: 20%;
+}
+.meRightImgContainer img{
+    max-width: 100%;
+    max-height: 100%;
+    object-fit: contain;
+    border-radius: 20%;
+}
+
+@media screen and (max-width: 768px) {
+    .buttons{
+    margin-bottom: 20px;
+    }
+}
