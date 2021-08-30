@@ -2,7 +2,6 @@ import React from "react";
 import Card from "../UI/Card";
 import SmallHeading from "../UI/SmallHeading";
 import MediumHeading from "../UI/MediumHeading";
-import Button from "../UI/Button";
 import latestProject from "../../assets/projects/Cass.jpg";
 
 import "./style.css";

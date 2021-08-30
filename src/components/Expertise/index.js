@@ -14,7 +14,7 @@ const Expertise = (props) => {
   return (
     <div className="container" style={{ marginTop: "40px", padding: "50px 0" }}>
       <div data-aos="fade-right" className="rightImgMeContainer">
-        <img src={me} alt-="" style={{width: '100%', marginTop: '220px'}} />
+        <img src={me} alt="me" style={{width: '100%', marginTop: '220px'}} />
         <SocialConnect style={{ position: "absolute", bottom: "-50px", left: "-13px"}} />
       </div>
       <div>

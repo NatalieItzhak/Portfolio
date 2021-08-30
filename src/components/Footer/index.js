@@ -15,9 +15,7 @@ const Footer = (props) => {
         </div>
         <div className="footerMenus mtb-10">
           <nav>
-            <a href="#">Home</a>
-            <a href="#">About</a>
-            <a href="#">Contact</a>
+            <a target="_blank"  rel="noreferrer" href="https://mail.google.com/mail/u/?authuser=natalie.itzhak@gmail.com">Contact</a>
           </nav>
         </div>
         <div className="conversationContainer primaryBgColor mtb-10">

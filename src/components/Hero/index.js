@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import React from "react";
 import me from "../../assets/images/me.jpg";
 import Button from "../UI/Button";
 import "./style.css";

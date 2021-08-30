@@ -6,6 +6,7 @@ const Button = (props) => {
   return (
     <a
     target="_blank"
+    rel="noreferrer"
       href={props.cv? "https://docs.google.com/document/d/1ayAUWSr0ZANsWZOwuPKJ7SlcFn5uE2yzVEbaUzcLRmw/edit#": "https://www.linkedin.com/in/natalie-itzhak-575832154/" }
       style={{
         boxSizing: "border-box",
